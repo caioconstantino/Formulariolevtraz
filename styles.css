@@ -1,0 +1,226 @@
+#title {
+    color: black;
+    text-align: center;
+    margin-left: 550px;
+    margin-right: 575px;
+    font-family: Verdana;
+    border-radius: 10px;
+    background-color:#f38001;
+    border: 1px solid black;
+}
+
+#name {
+    font-size: 30px;
+    font-family: Verdana;
+    margin-left: 450px;
+    margin-right: 400px;
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+    border: solid 1px black;
+    background-color: #d9d9d9;
+}
+
+#we {
+        background-color:rgb(230, 123,25);
+         color: black;
+         text-align: center;
+         margin-left: 550px;
+         margin-right: 575px;
+         font-family: Verdana;
+         border-radius: 10px;
+         border: solid 1px black;
+}
+
+#bg {
+    background-image: url(".//img/Design\ sem\ nome\ \(1\).png");
+    background-size: 100%;   
+}
+#nome {
+    text-align: center;
+    background-color:rgb(230, 123,25); 
+    color: black;
+    margin-left: 550px;
+    margin-right: 575px;
+    font-family: Verdana;
+    border-radius: 10px;
+    border: solid 1px black;
+}
+
+#Telefone {
+    background-color:rgb(230, 123,25);
+    color: black;
+    text-align: center;
+    margin-left: 550px;
+    margin-right: 575px;
+    font-family: Verdana;
+    border-radius: 10px;
+    border: solid 1px black;
+}
+
+#Email {
+    font-size: 30px;
+    margin-left: 450px;
+    margin-right: 400px;
+    font-family: Verdana;
+    background-color: #d9d9d9;
+    color: black;
+    border-radius: 10px;
+    border: solid 1px black;
+}
+
+#tel {
+    font-size: 30px;
+    margin-left: 450px;
+    margin-right: 400px;
+    font-family: Verdana; 
+    background-color: #d9d9d9;
+    color: black;
+    border-radius: 10px;
+    border: solid 1px black;
+}
+
+#Senha {
+    font-size: 30px;
+    margin-left: 450px;
+    margin-right: 400px;
+    font-family: Verdana; 
+    background-color: #d9d9d9;
+    color: black;
+    border-radius: 10px;
+    border: solid 1px black;
+}
+
+#password {
+    background-color:rgb(230, 123,25);
+    color: black;
+    text-align: center;
+    margin-left: 550px;
+    margin-right: 575px;
+    font-family: Verdana;
+    border-radius: 10px;
+    border: solid 1px black;
+}
+
+#ConfirmarSenha {
+    background-color:rgb(230, 123,25);
+    color: black;
+    text-align: center;
+    margin-left: 550px;
+    margin-right: 575px;
+    font-family: Verdana;
+    border-radius: 10px;
+    border: solid 1px black;
+} 
+
+#Confirmepassword {
+    font-size: 30px;
+    margin-left: 450px;
+    margin-right: 400px;
+    font-family: Verdana; 
+    background-color: #d9d9d9;
+    color: black;
+    border-radius: 10px;
+    border: solid 1px black;
+}
+
+#Arrecadação {
+    background-color:black;
+    border: solid 5px black;
+    color: rgb(230, 123,25);
+    text-align: center;
+    margin-left: 450px;
+    margin-right: 470px;
+    font-family: Verdana;
+    border-radius: 10px;
+}
+
+#donate1 {
+    background-color:rgb(230, 123,25);
+    color: black;
+    text-align: center;
+    margin-left: 550px;
+    margin-right: 575px;
+    font-family: Verdana;
+    border-radius: 10px;
+    border: solid 1px black;
+}
+
+#Donate {
+    font-size: 30px;
+    margin-left: 450px;
+    margin-right: 400px;
+    font-family: Verdana; 
+    background-color: #d9d9d9;
+    color: black;
+    border-radius: 10px;
+    border: solid 1px black;
+}
+
+#KG {
+    background-color:rgb(230, 123,25);
+    color: black;
+    text-align: center;
+    margin-left: 550px;
+    margin-right: 575px;
+    font-family: Verdana;
+    border-radius: 10px;
+    border: solid 1px black;
+}
+ 
+#KG1 {
+    font-size: 30px;
+    margin-left: 450px;
+    margin-right: 400px;
+    font-family: Verdana; 
+    background-color: #d9d9d9;
+    color: black;
+    border-radius: 10px;
+    border: solid 1px black;
+ }
+
+ #Valueitem {
+    background-color:rgb(230, 123,25);
+    color: black;
+    text-align: center;
+    margin-left: 550px;
+    margin-right: 575px;
+    font-family: Verdana;
+    border-radius: 10px;
+    border: solid 1px black;
+ }
+
+ #Valueitem1 {
+    font-size: 30px;
+    margin-left: 450px;
+    margin-right: 400px;
+    font-family: Verdana; 
+    background-color: #d9d9d9;
+    color: black;
+    border-radius: 10px;
+    border: solid 1px black;
+ }
+
+ #upload {
+    background-color:rgb(230, 123,25);
+    color: black;
+    text-align: center;
+    margin-left: 550px;
+    margin-right: 575px;
+    font-family: Verdana;
+    border-radius: 10px;
+    border: solid 1px black;
+ }
+
+ #Enviar {
+    background-color:rgb(230, 123,25);
+    color: black;
+    text-align: center;
+    margin-left: 550px;
+    margin-right: 575px;
+    border-radius: 10px;
+    font-size: 55px;
+    font-family: Verdana;
+    font-weight: bold;
+    border: solid 1px black;
+ }
