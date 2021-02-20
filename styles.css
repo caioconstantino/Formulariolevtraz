@@ -9,19 +9,18 @@
     border: 1px solid black;
 }
 
-#name {
+#nome1 {
     font-size: 30px;
     font-family: Verdana;
     margin-left: 450px;
     margin-right: 400px;
     color: black;
-    text-align: center;
     border-radius: 10px;
     border: solid 1px black;
     background-color: #d9d9d9;
 }
 
-#we {
+#Email1 {
         background-color:rgb(230, 123,25);
          color: black;
          text-align: center;
@@ -33,10 +32,10 @@
 }
 
 #bg {
-    background-image: url(".//img/Design\ sem\ nome\ \(1\).png");
+    background-image: url(".//img/Design sem nome(1).png");
     background-size: 100%;   
 }
-#nome {
+#nome2 {
     text-align: center;
     background-color:rgb(230, 123,25); 
     color: black;
@@ -47,7 +46,7 @@
     border: solid 1px black;
 }
 
-#Telefone {
+#Telefone1 {
     background-color:rgb(230, 123,25);
     color: black;
     text-align: center;
@@ -58,8 +57,9 @@
     border: solid 1px black;
 }
 
-#Email {
+#Email2 {
     font-size: 30px;
+    text-align: center;
     margin-left: 450px;
     margin-right: 400px;
     font-family: Verdana;
@@ -69,7 +69,7 @@
     border: solid 1px black;
 }
 
-#tel {
+#tel2 {
     font-size: 30px;
     margin-left: 450px;
     margin-right: 400px;
@@ -80,7 +80,7 @@
     border: solid 1px black;
 }
 
-#Senha {
+#password2 {
     font-size: 30px;
     margin-left: 450px;
     margin-right: 400px;
@@ -91,7 +91,7 @@
     border: solid 1px black;
 }
 
-#password {
+#password1 {
     background-color:rgb(230, 123,25);
     color: black;
     text-align: center;
@@ -102,7 +102,7 @@
     border: solid 1px black;
 }
 
-#ConfirmarSenha {
+#ConfirmarSenha1 {
     background-color:rgb(230, 123,25);
     color: black;
     text-align: center;
@@ -113,7 +113,7 @@
     border: solid 1px black;
 } 
 
-#Confirmepassword {
+#ConfirmarSenha2 {
     font-size: 30px;
     margin-left: 450px;
     margin-right: 400px;
@@ -124,7 +124,7 @@
     border: solid 1px black;
 }
 
-#Arrecadação {
+#Arrecadação1 {
     background-color:black;
     border: solid 5px black;
     color: rgb(230, 123,25);
@@ -135,7 +135,7 @@
     border-radius: 10px;
 }
 
-#donate1 {
+#Arrecadação2 {
     background-color:rgb(230, 123,25);
     color: black;
     text-align: center;
@@ -146,7 +146,7 @@
     border: solid 1px black;
 }
 
-#Donate {
+#Arrecadação3 {
     font-size: 30px;
     margin-left: 450px;
     margin-right: 400px;
@@ -157,7 +157,7 @@
     border: solid 1px black;
 }
 
-#KG {
+#KG1 {
     background-color:rgb(230, 123,25);
     color: black;
     text-align: center;
@@ -168,7 +168,7 @@
     border: solid 1px black;
 }
  
-#KG1 {
+#KG2 {
     font-size: 30px;
     margin-left: 450px;
     margin-right: 400px;
@@ -179,7 +179,7 @@
     border: solid 1px black;
  }
 
- #Valueitem {
+ #Valueitem1 {
     background-color:rgb(230, 123,25);
     color: black;
     text-align: center;
@@ -190,7 +190,7 @@
     border: solid 1px black;
  }
 
- #Valueitem1 {
+ #Valueitem2 {
     font-size: 30px;
     margin-left: 450px;
     margin-right: 400px;
@@ -223,4 +223,8 @@
     font-family: Verdana;
     font-weight: bold;
     border: solid 1px black;
+ }
+ @media screen and (max-width: 1080px){
+    #Valueitem2{
+    }
  }
